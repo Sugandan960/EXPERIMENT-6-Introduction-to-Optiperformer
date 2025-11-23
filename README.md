@@ -1,4 +1,4 @@
-N.Sugandan 
+<img width="623" height="346" alt="image" src="https://github.com/user-attachments/assets/a9bdc7c1-cdfe-4ade-9d5e-0225bd73c387" /><img width="623" height="346" alt="image" src="https://github.com/user-attachments/assets/ab3ba6d9-cd87-47bf-8979-75d860f2994e" />N.Sugandan 
 212222060260
 Exp 6 Simulation of Optical Communication System
 ## Introduction to OptiPerformer 
@@ -82,6 +82,10 @@ The system includes:
 ---
 
 ## Graphs
+
+
+
+
 
 
 
