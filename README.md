@@ -83,10 +83,8 @@ The system includes:
 
 ## Graphs
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
 
----
 
 ## RESULT
 
-*(Summarize key findings from simulation and analysis)*
+Hence the graphs are verified using optiperformer.
