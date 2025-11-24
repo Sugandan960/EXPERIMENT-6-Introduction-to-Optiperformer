@@ -71,7 +71,8 @@ The system includes:
 
 **Transmission Analysis Across Fiber Lengths**
 
-![Uploading image.png…]()
+![17639580038799048865401384102905](https://github.com/user-attachments/assets/b4389347-2cad-431f-827e-baa01e183846)
+
 
 ---
 
