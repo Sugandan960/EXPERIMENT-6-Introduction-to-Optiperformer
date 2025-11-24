@@ -85,6 +85,7 @@ The system includes:
 <img width="624" height="361" alt="1763958351496270671383424412732" src="https://github.com/user-attachments/assets/0067c741-c563-462e-bbac-1278a1d41736" />
 
 
+<img width="625" height="358" alt="176395892102851744674721689211" src="https://github.com/user-attachments/assets/ceaf968d-5a04-4501-b06e-233adc840423" />
 
 
 
