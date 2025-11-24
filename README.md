@@ -88,6 +88,7 @@ The system includes:
 <img width="625" height="358" alt="176395892102851744674721689211" src="https://github.com/user-attachments/assets/ceaf968d-5a04-4501-b06e-233adc840423" />
 
 
+![Uploading 17639589750134527120855616278396.png…]()
 
 
 
