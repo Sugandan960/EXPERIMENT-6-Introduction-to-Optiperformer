@@ -90,6 +90,7 @@ The system includes:
 
  <img width="624" height="354" alt="17639589750134527120855616278396" src="https://github.com/user-attachments/assets/1de526d1-fae5-42dc-b77b-7b9a2f9f6df9" />
 
+<img width="622" height="353" alt="17639592116304950567630055756343" src="https://github.com/user-attachments/assets/a5b29d6d-656f-4284-bb9a-507c08b906bb" />
 
 
 ## RESULT
