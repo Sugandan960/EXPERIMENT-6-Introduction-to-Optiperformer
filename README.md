@@ -76,9 +76,9 @@ The system includes:
 
 ---
 
-## Graphs:
+## graphs:
 
-![Uploading 17639582461552439478337976438512.png…]()
+<img width="623" height="346" alt="17639582461552439478337976438512" src="https://github.com/user-attachments/assets/74f417aa-dbec-4c12-b14d-8ae35d4df9cd" />
 
 
 
